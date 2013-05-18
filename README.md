@@ -10,9 +10,13 @@ I wrote this just for fun, not for profit.
 Usage
 ===
 
+```
 ruby psc.rb *soundcloud url*
+```
 
 Example
 ===
 
+```
 ruby psc.rb https://soundcloud.com/eptic/eptic-mastermind
+```
